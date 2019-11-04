@@ -1,6 +1,6 @@
 import { tmpdir } from 'os';
+import { join } from 'path';
 import { promises } from 'fs';
-import { join, dirname } from 'path';
 import del from 'eliminate';
 
 export default async function ({ dir = tmpdir(), prefix = 'sg-' } = {}) {
