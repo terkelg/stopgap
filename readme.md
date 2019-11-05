@@ -64,7 +64,7 @@ Custom prefix for folder. Defaults to `sg-`.
 ### opts.dir
 Type: `String`
 
-Custom path for the directory. Path is created recursivly.
+Custom path for the directory. Path is created recursively.
 
 Defaults to the system tmp directory.
 
