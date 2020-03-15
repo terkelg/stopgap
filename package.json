@@ -1,6 +1,6 @@
 {
   "name": "stopgap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "terkelg/stopgap",
   "description": "Easily create/remove temporary directories",
   "module": "dist/stopgap.mjs",
