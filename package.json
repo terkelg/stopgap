@@ -34,9 +34,9 @@
   },
   "devDependencies": {
     "esm": "^3.2.25",
-    "rollup": "^1.26.3",
+    "rollup": "^2.0.6",
     "tap-spec": "5.0.0",
-    "tape": "4.11.0"
+    "tape": "4.13.2"
   },
   "dependencies": {
     "eliminate": "^1.1.1"
